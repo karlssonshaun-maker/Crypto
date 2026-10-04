@@ -1,0 +1,19 @@
+# Environment — NEVER commit this
+.env
+
+# Hardhat / Node
+node_modules/
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain-types/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
